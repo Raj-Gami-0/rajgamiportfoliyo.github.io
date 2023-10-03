@@ -1,0 +1,796 @@
+/* poppins-200 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 200;
+    src: url('../fonts/poppins-v20-latin-200.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-200.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-200.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-200.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-200.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-200.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-300 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/poppins-v20-latin-300.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-300.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-300.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-300.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-300.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-300.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-regular - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/poppins-v20-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-regular.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-500 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/poppins-v20-latin-500.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-500.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-500.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-500.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-500.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-500.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-600 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/poppins-v20-latin-600.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-600.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-600.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-600.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-600.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-600.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-700 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/poppins-v20-latin-700.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-700.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-700.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-700.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-700.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-700.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-800 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/poppins-v20-latin-800.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-800.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-800.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-800.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-800.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-800.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-900 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    src: url('../fonts/poppins-v20-latin-900.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-900.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-900.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-900.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-900.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-900.svg#Poppins') format('svg');
+    /* Legacy iOS */
+
+}
+.top_header_fix {
+    background-color: white !important;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 102;
+    animation: header 1s;
+  }
+  
+  @keyframes header {
+    from {
+      transform: translateY(-100%);
+    }
+  
+    to {
+      transform: translateY(0);
+    }
+  }
+  /* .main_header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+  } */
+/* =========================scrolr top================= */
+#scroll_top {
+    color: var(--oreange-color);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #8181ec53;
+    border: 1px solid var(--oreange-color);
+    text-align: center;
+    line-height: 50px;
+    font-size: 22px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+    transition: 1s;
+    opacity: 0;
+    z-index: 5555;
+}
+#scroll_top i {
+    animation: up-down 1s alternate infinite;
+}
+
+@keyframes up-down {
+    0% {
+        transform: translatey(-4px);
+    }
+
+    100% {
+        transform: translatey(4px);
+    }
+}
+
+/* ==================================heder section start ======================================= */
+@media screen and (min-width:1200px) {
+    .container {
+      max-width: 1140px
+    }
+  }
+  
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --black-color: black;
+    --oreange-color:#1a66ff;
+    --blue-color:#002d5b;
+    --white-color:#fff;
+}
+.blue_color{
+    color: #002d5b;
+}
+h1{
+    font-family: Rufina, serif ;
+}
+body {
+    font-family: Poppins;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.navbar-nav li a {
+    padding: 20px 25px;
+    color: var(--black-color);
+    transition: 0.3s;
+    font-weight: 500;
+}
+.navbar-nav li {
+    padding: 0px 25px;
+}
+.navbar-nav .nav-item .nav-link.active,
+.navbar-nav .nav-item .nav-link:hover {
+    color: var(--oreange-color);
+}
+.bg_theme {
+    background-color: white;
+    border-bottom: 1px solid #DDEDFC;
+}
+
+/* ================================= my potfoliyo ================================== */
+.inner_text h6{
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif !important;
+    letter-spacing: 1px;
+    color: #1a66ff;
+}
+.inner_text h1{
+    color: var(--blue-color);
+    /* font-family: Rufina, serif ; */
+}
+.word {
+    position: absolute;
+    opacity: 0;
+}
+.letter {
+    display: inline-block;
+    position: relative;
+    transform: translateZ(25px);
+    transform-origin: 50% 50% 25px;
+}
+
+.letter.out {
+    transform: rotateX(90deg);
+    transition: transform 0.32s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+
+.letter.behind {
+    transform: rotateX(-90deg);
+}
+
+.letter.in {
+    transform: rotateX(0deg);
+    transition: transform 0.38s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.wisteria {
+    color: var(--blue-color);
+}
+.belize {
+    color: var(--blue-color);
+}
+.first_btn .hire_btn {
+    color: var(--white-color);
+    background-color: var(--oreange-color);
+    border: 2px solid var(--oreange-color);
+    transition: 0.5s;
+    border-radius: 30px;
+    font-size: 15px;
+    letter-spacing: 2px;
+    padding: 10px 30px;
+    display: inline-block;
+}
+
+.first_btn .hire_btn:hover {
+    background-color: transparent;
+    border: 2px solid var(--oreange-color);
+    color: var(--oreange-color);
+}
+
+.first_btn .work_btn {
+    color: var(--oreange-color);
+    background-color: transparent;
+    border: 2px solid var(--oreange-color);
+    transition: 0.5s;
+    border-radius: 30px;
+    font-size: 15px;
+    letter-spacing: 2px;
+    padding: 10px 25px;
+    display: inline-block;
+}
+
+.first_btn .work_btn:hover {
+    color: var(--white-color);
+    background-color: var(--oreange-color);
+    border: 2px solid var(--oreange-color);
+}
+
+.social_info {
+    margin-top: 25px;
+}
+
+.last_icon a {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 18px;
+    color: var(--blue-color);
+    margin-right: 5px;
+    border-radius: 50%;
+    transition: 0.5s;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid gray;
+    transition: 0.3s;
+}
+
+.last_icon a:hover {
+    color: var(--white-color);
+    background-color: var(--oreange-color);
+    border: 1px solid var(--oreange-color);
+}
+@media screen and (max-width: 768px){
+    .mar .admin_image img{
+   margin-bottom: 20px;
+}
+}
+/* =============================== about me ========================== */
+.about_part {
+    border: 1px solid #d86e691d;
+}
+.about_img img{
+    width: 100%;
+    object-fit:cover;
+}
+.about_info li {
+    margin-bottom: 10px;
+}
+.about_info li span:first-child {
+    width: 125px;
+    font-weight: 600;
+}
+.text-orange {
+    color: #1a66ff !important;
+}
+.cv_btn {
+    padding: 12px 25px;
+    display: inline-block;
+    color: var(--white-color);
+    background-color: var(--oreange-color);
+    border: 2px solid var(--oreange-color);
+    transition: 0.5s;
+    border-radius: 30px;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.cv_btn:hover {
+    background-color: transparent !important;
+    border: 2px solid var(--oreange-color);
+    color: var(--oreange-color);
+}
+/* =================================Education start====================================== */
+
+.box {
+    border-radius: 4px;
+    box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 8%) !important;
+    border-top: 1px solid rgb(182, 182, 182);
+    border-left: 1px solid rgb(182, 182, 182);
+    border-right: 1px solid rgb(182, 182, 182);
+    background-color: #f8f9fa !important;
+    transition: 0.3s;
+    border-bottom: 4px solid rgb(182, 182, 182);
+}
+
+.box:hover {
+    transform: translatey(5px);
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 40px;
+    border-top: 1px solid #1a66ff;
+    border-left: 1px solid #1a66ff;
+    border-right: 1px solid #1a66ff;
+    border-bottom: 4px solid #1a66ff;
+
+}
+
+.education_imag {
+    text-align: center;
+}
+
+.education_imag img {
+    width: 60px;
+}
+
+.box h5 {
+    font-family: 'Poppins', sans-serif !important;
+}
+/* ==========================================secrvice section start =======================*/
+.cart_image img {
+    width: 100px;
+}
+
+.cart {
+    box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
+    position: relative;
+    overflow: hidden;
+}
+
+.rouded_layer {
+    position: absolute;
+    color: white;
+    top: -40px;
+    right: -60px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color:  #1a66ff;
+    overflow: hidden;
+    transition: 0.8s;
+    z-index: -1;
+}
+
+.cart h4 {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.cart:hover .rouded_layer {
+    top: 0;
+    right: 0;
+    width: 200%;
+    height: 500%;
+    /* border-radius: 0; */
+}
+/* ========================================contact=========================== */
+.thumbnail img {
+    width: 300px;
+    margin: 0 auto !important;
+}
+
+.contact_left {
+    box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 8%) !important;
+    border: 1px solid #dee2e6 !important;
+    background-color: #f8f9fa !important;
+    border-radius: 8px;
+    height: 100%;
+}
+
+.title_area h2 {
+    color: var(--blue-color);
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.contact_info a:hover {
+    color: var(--oreange-color) !important;
+    transition: 0.5s;
+}
+
+.right_form_area {
+    box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 8%) !important;
+    border: 1px solid #dee2e6 !important;
+    background-color: #f8f9fa !important;
+    border-radius: 8px;
+}
+
+.form_row {
+    gap: 30px;
+    margin-bottom: 16px;
+}
+
+label {
+    display: block;
+    margin-bottom: 15px;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: var(--p-teg-color);
+}
+
+.form_left,
+.form_right {
+    width: 50%;
+}
+
+.form-control1 {
+    width: 100%;
+    background-color: white;
+    box-shadow: inset 0 0 10px #e0e0e0;
+    border-radius: 4px;
+    border: 1px solid rgb(202, 202, 202);
+    color: var(--blue-color);
+    padding: 0.375rem 0.75rem;
+    font-size: 16px;
+    height: 48px;
+    margin-bottom: 20px;
+}
+
+.form-control1:focus {
+    outline: 1px solid var(--oreange-color);
+}
+
+.form-control2 {
+    width: 100%;
+    height: auto;
+    background-color: white;
+    box-shadow: inset 0 0 10px #e0e0e0;
+    border-radius: 4px;
+    border: 1px solid rgb(202, 202, 202);
+    color: var(--text-color);
+    padding: 0.375rem 0.75rem;
+    font-size: 16px;
+}
+
+.form-control2:focus {
+    outline: 1px solid var(--oreange-color);
+}
+
+.form_row .btn1 {
+    cursor: pointer;
+    background-color: var(--oreange-color);
+    padding: 15px 30px;
+    border-radius: 8px;
+    border: 2px solid var(--oreange-color);
+    font-size: 16px;
+    color: var(--white-color);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: 0.5s;
+}
+
+.form_row .btn1:hover {
+    background-color: transparent;
+    border: 2px solid var(--oreange-color);
+    color: var(--oreange-color);
+}
+/* ========================================footer================================= */
+.footer_part {
+    background-color: #222831;
+}
+
+.footer_part1 h1 {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.footer_part2 h3 {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.footer_part2 p {
+    color: var(--white-color);
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.footer_part2 p:hover {
+    color: var(--oreange-color);
+    letter-spacing: 1px;
+}
+
+.footer_part3 h3 {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.footer_contact_info a {
+    color: var(--white-color);
+    transition: 0.5s;
+}
+
+.footer_contact_info a:hover {
+    color: var(--oreange-color);
+}
+
+.footer_last_icon li a {
+    font-size: 20px;
+    text-align: center;
+    line-height: 40px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.copy_right_part {
+    border-top: 1px solid gray;
+}
+/* ===============================skill========================= */
+.pogress {
+    height: 12px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 1px 0;
+    border-radius: 30px;
+
+}
+
+.move_pogress {
+    background-color: var(--oreange-color);
+    width: 92%;
+    height: 9px;
+    position: relative;
+    border-radius: 30px;
+    animation-duration: 2s;
+    animation-delay: 2s;
+    animation-name: move_pogress;
+}
+
+.pogres_text h4 {
+    font-family: 'Poppins', sans-serif !important;
+    color: var(--blue-color);
+}
+
+.move_pogress span {
+    color: var(--text-color);
+    font-size: 20px;
+    position: absolute;
+    top: -38px;
+    right: 0;
+}
+
+.move_pogress3 {
+    width: 88%;
+    animation-duration: 2.8s;
+    animation-delay: 2s;
+    animation-name: move_pogress3;
+}
+
+@keyframes move_pogress3 {
+    0% {
+        opacity: 0;
+        width: 0;
+    }
+
+    100% {
+        opacity: 1;
+        transform: none;
+        width: 88%;
+    }
+}
+
+.move_pogress4 {
+    width: 92%;
+    animation-duration: 2.8s;
+    animation-delay: 2s;
+    animation-name: move_pogress4;
+}
+
+@keyframes move_pogress4 {
+    0% {
+        opacity: 0;
+        width: 0;
+    }
+
+    100% {
+        opacity: 1;
+        transform: none;
+        width: 92%;
+    }
+}
+
+.move_pogress5 {
+    width: 95%;
+    animation-duration: 2.8s;
+    animation-delay: 2s;
+    animation-name: move_pogress5;
+}
+
+@keyframes move_pogress5 {
+    0% {
+        opacity: 0;
+        width: 0;
+    }
+
+    100% {
+        opacity: 1;
+        transform: none;
+        width: 95%;
+    }
+}
+
+.move_pogress6 {
+    width: 90%;
+    animation-duration: 2.8s;
+    animation-delay: 2s;
+    animation-name: move_pogress6;
+}
+
+@keyframes move_pogress6 {
+    0% {
+        opacity: 0;
+        width: 0;
+    }
+
+    100% {
+        opacity: 1;
+        transform: none;
+        width: 90%;
+    }
+}
+
+.move_pogress7 {
+    width: 72%;
+    animation-duration: 2.8s;
+    animation-delay: 2s;
+    animation-name: move_pogress7;
+}
+
+@keyframes move_pogress7 {
+    0% {
+        opacity: 0;
+        width: 0;
+    }
+
+    100% {
+        opacity: 1;
+        transform: none;
+        width: 72%;
+    }
+}
+
+.move_pogress8 {
+    width: 80%;
+    animation-duration: 2.8s;
+    animation-delay: 2s;
+    animation-name: move_pogress8;
+}
+
+@keyframes move_pogress8 {
+    0% {
+        opacity: 0;
+        width: 0;
+    }
+
+    100% {
+        opacity: 1;
+        transform: none;
+        width: 80%;
+    }
+}
